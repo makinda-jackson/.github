@@ -7,13 +7,11 @@
 
 <img src="https://i.imgur.com/TdWkEkY.png" title="makinda jackson" alt="UX/UI designer based in Tanzania">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=makinda-jackson&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ECC697&fire=F64A24&background=DD272700&sideNums=F68653&currStreakLabel=86C5CB&sideLabels=86C5CB&currStreakNum=E35836" align="right" margin-bottom="20px">
-
 <br>
 
 ## About Us
 
-We are dedicated to delivering innovative software solutions, specializing in modern web development technologies. Based in Tanzania, we focus on creating impactful and scalable applications.
+We are dedicated to delivering innovative solutions, specializing in modern web development technologies. Based in Tanzania, we focus on creating impactful and scalable applications.
 
 - **Current Projects**: We are actively developing solutions using [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), and [Laravel](https://laravel.com/).
 - **Contact**: Reach out to us via [Telegram](https://t.me/makindajack).
