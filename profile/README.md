@@ -23,5 +23,5 @@ We are dedicated to delivering innovative solutions, specializing in modern web 
 
 <h4 align="center">
   <br>
-  <a href="https://github.com/makinda-jackson?tab=repositories" title="Show Repositories">Show More...</a>
+  <a href="https://github.com/orgs/makinda-jackson?tab=repositories" title="Show Repositories">Show More...</a>
 </h4>
